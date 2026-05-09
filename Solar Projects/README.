@@ -1,0 +1,1 @@
+My project is an interactive solar system for kids. The player can click the Sun, planets, or the Moon. When an object is selected, the camera zooms toward it, the object glows and grows for feedback, and a simple fact appears on the screen. The planets rotate and orbit, and the Moon orbits Earth. The player can press Space or click the return button to go back to the main view.
